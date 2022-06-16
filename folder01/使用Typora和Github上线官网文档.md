@@ -12,7 +12,7 @@
 
 在此项目中，如果你没有`create branch`的权限，例如在下图的`edit`分支下拉菜单中，如果没有提示你新建分支，则需要联系管理员姚佳（yaojia6）添加权限。
 
-<img src="/Users/heyutan/Documents/0-Super结构化资料/8.写作/官网最佳实践文档/Picture-Local/how-to-use-github-to-build-doc/1.jdcloud-create-branch-permission.jpg" alt="1.jdcloud-create-branch-permission" style="zoom:33%;" />
+<img src="./img/1.jdcloud-create-branch-permission.jpg" alt="1.jdcloud-create-branch-permission" style="width:33%;" />
 
 ### 3.创建文件目录和占位文件
 
