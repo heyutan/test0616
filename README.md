@@ -14,3 +14,15 @@
 
 <img src="https://b-heyutan.s3.cn-north-1.jdcloud-oss.com/WIPM/1.server-manager.jpg" alt="1.server-manager" style="width:70%;" />
 
+
+
+
+聂丹颖
+
+`https://jdcloud-portal.s3.cn-north-1.jdcloud-oss.com/cn/image/vm/Getting-Start-Linux-Connect-Windows-mstsc1.png`
+
+![1](https://jdcloud-portal.s3.cn-north-1.jdcloud-oss.com/cn/image/vm/Getting-Start-Linux-Connect-Windows-mstsc1.png)
+
+<img src="https://jdcloud-portal.s3.cn-north-1.jdcloud-oss.com/cn/image/vm/Getting-Start-Linux-Connect-Windows-mstsc1.png" alt="1.server-manager" style="width:70%;" />
+
+
